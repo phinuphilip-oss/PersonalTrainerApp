@@ -1,0 +1,6 @@
+{
+  "name": "Kinetix",
+  "description": "AI Personal Trainer with custom workout generation, active set logging, rest timer, nutrition macro tracking, and form coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
